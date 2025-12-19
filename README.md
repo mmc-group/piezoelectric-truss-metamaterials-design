@@ -2,7 +2,8 @@
 
 This repository contains the codes used for homogenization, ML-based desgin, and print path planning for the truss metamaterials presented in the manuscript:
 
-Sharma et al., **"Piezoelectric truss metamaterials: data-driven design and additive manufacturing"**, npj Metamaterials (2025).
+Sharma et al., **"Piezoelectric truss metamaterials: data-driven design and additive manufacturing"**, npj Metamaterials, 1, 9 (2025).
+[DOI: 10.1038/s44455-025-00009-2](https://doi.org/10.1038/s44455-025-00009-2)
 
 The corresponding dataset used in this work can be found under the following link: [Dataset underlying the publication "Piezoelectric truss metamaterials: data-driven design and additive manufacturing"](https://doi.org/10.5281/zenodo.17041483)
 
